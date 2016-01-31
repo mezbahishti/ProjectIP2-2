@@ -1,0 +1,53 @@
+div.appear
+{
+	width: 800px;height: 800px;left: 300px;top: 20px;border-radius: 25px;border-style: solid;background-color: rgb(0,52,103);position: absolute;
+}
+div.header
+{
+left:45px;width:700px;height: 150px;top:20px;position: absolute;border-radius: 25px;background-color: #F7FAFA;border-style: solid;
+text-align: center ;font-family:elephant;font-size: 30px;
+}
+div.rule
+{
+	top:200px;left:45px;width:700px;height: 570px;position: absolute;border-radius: 25px;background-color: #F7FAFA;border-style: solid;
+}
+.rules
+{
+	left: 10px;position: absolute;
+	font-family:'callibri';
+	top: 100px;left: 50px;
+	line-height: 200%;
+}
+
+.div_of_links
+{
+left:45px;width:700px;height: 50px;top:200px;position: absolute;border-radius: 25px;background-color: #F7FAFA;border-style: solid;
+text-align: center ;font-family:elephant;font-size: 30px;
+}
+.inside_div_of_links
+{
+	background-color: #082C7A;top: 10px;height: 30px;left: 50px;position: absolute;width: 600px;border-radius: 20px;
+}
+.link
+{
+	left: 50px;width: 600px;height: 30px;top: 10px;position: absolute;background-color: #082C7A;border-radius: 25px;
+	font-size: 10px;
+	font-family: aharoni;
+
+}
+.h
+{
+
+font-size: 20px;
+text-decoration: none;
+
+}
+.h a
+{
+	color:white;
+	text-decoration: none;
+}
+.h:hover
+{
+	background-color: #2D4C8E;
+}
